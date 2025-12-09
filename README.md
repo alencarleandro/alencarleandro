@@ -15,7 +15,7 @@
 
 ![Header](https://github.com/alencarleandro/alencarleandro.github.io/blob/main/headerFast.png)
 
-## 🎯 **Fast Tennis — Engenheiro de Agentes de IA** 🎾  
+## 🎾 **Fast Tennis — Engenheiro de Agentes de IA**   
 **📅 out 2025 – atual**  
 - Criação de agentes inteligentes para atendimento automatizado via WhatsApp.  
 - Implementação de fluxos usando N8N, RAG e integrações.  
