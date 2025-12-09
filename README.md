@@ -1,19 +1,19 @@
 
+# 💼 **Carreira**
+
 ![Header](https://github.com/alencarleandro/alencarleandro.github.io/blob/main/headerLegnu.png)
 
-# ✨ **Sobre mim**
+## 💻 **Legnu INFORTEC — Engenheiro de Software**  
+**📅 jan 2020 – atual**  
+- Desenvolvimento de sistemas empresariais, ERPs e automações.  
+- Evolução de software baseado em princípios SOLID.  
+- Integrações diversas, sistemas de mensageria e automações personalizadas.  
 
-👋 Olá! Meu nome é **Leandro Alencar**, tenho **21 anos** e sou **desenvolvedor fullstack**, com foco especial em **backend**.  
-Comecei a programar muito cedo — meu primeiro contato foi com **Java**, o que moldou naturalmente meu gosto por arquiteturas robustas e lógicas de sistema.
-
-🚀 Cresci construindo soluções “na raça”, incluindo alguns monólitos gigantes (que hoje eu olho e penso: *meu Deus* 😅).  
-Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de Software** na PUC Minas. Passei a entender os nomes dos padrões e técnicas que eu já aplicava intuitivamente, além de refatorar tudo com muito mais maturidade e arquitetura limpa.
-
-🧠 Atualmente, atuo como **Engenheiro de Agentes de IA**, lidando com **automação**, **RAG**, **prompt engineering** e fluxos avançados com N8N.
+**🛠 Tecnologias:** Java, Swing, JavaFX, Selenium, SQL, JS, Spring, Hibernate, Maven.
 
 ---
 
-# 💼 **Experiência**
+![Header](https://github.com/alencarleandro/alencarleandro.github.io/blob/main/headerFast.png)
 
 ## 🎯 **Fast Tennis — Engenheiro de Agentes de IA** 🎾  
 **📅 out 2025 – atual**  
@@ -25,6 +25,8 @@ Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de
 
 ---
 
+![Header](https://github.com/alencarleandro/alencarleandro.github.io/blob/main/headerPuc.png)
+
 ## 🎓 **PUC Minas — Monitor de Programação Modular**  
 **📅 jul 2025 – out 2025**  
 - Auxílio aos alunos em conceitos da disciplina.  
@@ -33,13 +35,15 @@ Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de
 
 ---
 
-## 💻 **Legnu INFORTEC — Engenheiro de Software**  
-**📅 jan 2020 – atual**  
-- Desenvolvimento de sistemas empresariais, ERPs e automações.  
-- Evolução de software baseado em princípios SOLID.  
-- Integrações diversas, sistemas de mensageria e automações personalizadas.  
+# ✨ **Sobre mim**
 
-**🛠 Tecnologias:** Java, Swing, JavaFX, Selenium, SQL, JS, Spring, Hibernate, Maven.
+👋 Olá! Meu nome é **Leandro Alencar**, tenho **21 anos** e sou **desenvolvedor fullstack**, com foco especial em **backend**.  
+Comecei a programar muito cedo — meu primeiro contato foi com **Java**, o que moldou naturalmente meu gosto por arquiteturas robustas e lógicas de sistema.
+
+🚀 Cresci construindo soluções “na raça”, incluindo alguns monólitos gigantes (que hoje eu olho e penso: *meu Deus* 😅).  
+Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de Software** na PUC Minas. Passei a entender os nomes dos padrões e técnicas que eu já aplicava intuitivamente, além de refatorar tudo com muito mais maturidade e arquitetura limpa.
+
+🧠 Atualmente, atuo como **Engenheiro de Agentes de IA**, lidando com **automação**, **RAG**, **prompt engineering** e fluxos avançados com N8N.
 
 ---
 
