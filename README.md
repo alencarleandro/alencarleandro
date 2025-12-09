@@ -31,7 +31,7 @@ Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de
 ---
 
 ## 💻 **Legnu INFORTEC — Engenheiro de Software**  
-**📅 jan 2022 – atual**  
+**📅 jan 2020 – atual**  
 - Desenvolvimento de sistemas empresariais, ERPs e automações.  
 - Evolução de software baseado em princípios SOLID.  
 - Integrações diversas, sistemas de mensageria e automações personalizadas.  
