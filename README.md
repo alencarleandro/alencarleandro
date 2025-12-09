@@ -79,9 +79,9 @@
 
 # ✨ Sobre mim
 
-👋 Meu nome é **Leandro Alencar**, comecei a programar aos **15 anos** e sou **desenvolvedor fullstack**, com foco em **backend** e em **engenharia de agentes autônomos de IA**.
+👋 Meu nome é **Leandro Alencar**, comecei a programar aos **15 anos** sou **desenvolvedor fullstack**, com foco em **backend** e em **engenharia de agentes de IA**.
 
-Meu primeiro contato com programação foi com **Java**, o que moldou meu estilo voltado para lógica, arquitetura e engenharia de software de verdade.
+Meu primeiro contato com programação foi com **Java**, o que moldou meu estilo voltado para lógica, arquitetura e engenharia de software.
 
 Atualmente trabalho criando **agentes inteligentes**, automações avançadas, sistemas de RAG e gerenciamento de contexto — com foco em **conversas naturais e alto nível de autonomia**.
 
