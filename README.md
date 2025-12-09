@@ -1,3 +1,6 @@
+
+![Header](https://github.com/alencarleandro/alencarleandro.github.io/blob/main/headerLegnu.png)
+
 # ✨ **Sobre mim**
 
 👋 Olá! Meu nome é **Leandro Alencar**, tenho **21 anos** e sou **desenvolvedor fullstack**, com foco especial em **backend**.  
