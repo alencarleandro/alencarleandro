@@ -1,6 +1,9 @@
 # 💫 Sobre mim
-Sou apaixonado por tecnologia, especialmente por programação e arquitetura de software. Em 2022, durante o curso Técnico em Eletrônica no SENAI Horto, percebi minha vocação para o desenvolvimento de software. Atualmente curso Engenharia de Software na PUC Minas (2024–2027) e estou em aperfeiçoamento na área de agentes de IA e automação de processos.  
-Busco aplicar meus conhecimentos em projetos desafiadores, entregando soluções escaláveis e seguindo boas práticas de engenharia de software.
+Olá, meu nome é Leandro Alencar, tenho 21 anos e sou desenvolvedor fullstack (principalmente backend). Programo desde muito cedo, começando com Java — talvez por isso tenha desenvolvido uma preferência maior pelo backend, já que fui inserido nesse mundo primeiro. Por começar tão cedo, acabei construindo muitas coisas “na raça”, incluindo grandes monólitos que, olhando hoje, eram bem questionáveis.
+
+No início de 2024, entrei na faculdade e iniciei minha graduação em Engenharia de Software. Lá, consegui dar nome a muitos conceitos que eu já aplicava sem saber e refinei muito minha forma de construir software. Com isso, encontrei soluções para os meus antigos monólitos com classes gigantes, refatorando toda a lógica que eu havia desenvolvido antes.
+
+Atualmente, estagio em uma empresa chamada Fast Tennis, onde estou explorando a criação de agentes de IA e lidando com desafios como construção de prompts e implementação de RAG para esses agentes.
 
 ---
 
