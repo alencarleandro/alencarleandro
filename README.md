@@ -9,15 +9,20 @@ Atualmente, estagio em uma empresa chamada Fast Tennis, onde estou explorando a 
 
 # 💼 Experiência
 
-### **Play Fast — Engenheiro de Agentes de IA**  
-**jul 2025 – atual**  
+### **Fast Tennis — Engenheiro de Agentes de IA**  
+**out 2025 – atual**  
 Desenvolvimento de gerentes digitais inteligentes para automatizar atendimento via WhatsApp, com agentes capazes de conduzir interações até marcação de reuniões.  
 **Tecnologias:** N8N, RAG (Retrieval-Augmented Generation), Python, PHP.
+
+### **PUC Minas — Monitor de Programação Modular**  
+**jul 2025 – out 2025**  
+Apoio aos alunos em atividades práticas, esclarecimento de dúvidas sobre conteúdos da disciplina e auxílio na construção de projetos acadêmicos. Atuação direta com metodologias de ensino, resolução de exercícios e orientação técnica.
 
 ### **Legnu INFORTEC — Desenvolvedor Fullstack**  
 **jan 2022 – jun 2025**  
 Desenvolvimento de soluções empresariais, ERP, automações e integrações de mensageria. Criação de novas funcionalidades e evolução de sistemas aplicando princípios SOLID.  
 **Tecnologias:** Java, Java Swing, JavaFX, Selenium, SQL, HTML, CSS, JavaScript, Spring, Maven, Hibernate.
+
 
 ---
 
