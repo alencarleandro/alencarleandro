@@ -30,7 +30,7 @@ Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de
 
 ---
 
-## 💻 **Legnu INFORTEC — Desenvolvedor Fullstack**  
+## 💻 **Legnu INFORTEC — Engenheiro de Software**  
 **📅 jan 2022 – jun 2025**  
 - Desenvolvimento de sistemas empresariais, ERPs e automações.  
 - Evolução de software baseado em princípios SOLID.  
