@@ -37,8 +37,8 @@
 
 # ✨ **Sobre mim**
 
-👋 Olá! Meu nome é **Leandro Alencar**, tenho **21 anos** e sou **desenvolvedor fullstack**, com foco especial em **backend**.  
-Comecei a programar muito cedo — meu primeiro contato foi com **Java**, o que moldou naturalmente meu gosto por arquiteturas robustas e lógicas de sistema.
+👋 Olá! Meu nome é **Leandro Alencar**, começei a programar com meus **15 anos** sou **desenvolvedor fullstack**, com foco especial em **backend**.  
+Meu primeiro contato foi com **Java**, o que moldou naturalmente meu gosto por arquiteturas robustas e lógicas de sistema.
 
 🚀 Cresci construindo soluções “na raça”, incluindo alguns monólitos gigantes (que hoje eu olho e penso: *meu Deus* 😅).  
 Mas isso mudou quando, em **2024**, iniciei minha graduação em **Engenharia de Software** na PUC Minas. Passei a entender os nomes dos padrões e técnicas que eu já aplicava intuitivamente, além de refatorar tudo com muito mais maturidade e arquitetura limpa.
