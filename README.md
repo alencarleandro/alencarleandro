@@ -7,32 +7,33 @@
 
 <td width="33%" valign="top">
 
-### 🔥 Linguagens & Backend  
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  
+### 🔥 Linguagens  
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>  
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🤖 Automação, IA & Ferramentas  
-<img src="https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Agentes%20de%20IA-%23007ACC.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+### 🧩 Frameworks & Frontend  
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+</td>
 
 <td width="33%" valign="top">
 
-### 🧩 Frameworks & Dev Tools  
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white"/>  
-<img src="https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>  
-<img src="https://img.shields.io/badge/thymeleaf-%230B9B9B.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
-<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+### 🤖 IA & Automação  
+<img src="https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-%23007ACC.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
+<img src="https://img.shields.io/badge/RAG-%23FF9900.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>  
+<img src="https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
 
 </td>
 
@@ -47,29 +48,31 @@
 
 <td width="33%" valign="top">
 
-### 🎨 Design & Criação  
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>  
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
+### ☁️ Cloud & DevOps  
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>  
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🗄 Bancos de Dados  
-<img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>  
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 🗄 Dados & Mensageria  
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
+<img src="https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔧 Controle de Versão  
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+### 🔧 Ferramentas & Monitoramento  
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>  
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
 
 </td>
 
@@ -81,11 +84,11 @@
 
 # ✨ Sobre mim
 
-👋 Meu nome é **Leandro Alencar**, comecei a programar aos **15 anos** sou **desenvolvedor fullstack**, com foco em **backend** e em **engenharia de agentes de IA**.
+👋 Meu nome é **Leandro Alencar**, sou desenvolvedor **fullstack** com foco em **desenvolvimento backend e construção de aplicações escaláveis**.
 
-Meu primeiro contato com programação foi com **Java**, o que moldou meu estilo voltado para lógica, arquitetura e engenharia de software.
+Tenho experiência no desenvolvimento de **APIs, sistemas web e integrações entre serviços**, utilizando tecnologias como Java, Spring Boot, Node.js e bancos de dados relacionais, sempre aplicando boas práticas de arquitetura e organização de código.
 
-Atualmente trabalho criando **agentes inteligentes**, automações avançadas, sistemas de RAG e gerenciamento de contexto — com foco em **conversas naturais e alto nível de autonomia**.
+Também atuo com **automações e integrações com IA**, desenvolvendo agentes conversacionais e fluxos com RAG para otimização de processos e sistemas inteligentes.
 
 ---
 
@@ -143,7 +146,7 @@ Java • Swing • JavaFX • Selenium • SQL • JavaScript • Spring • Hib
   <td valign="top">
 
 ## 🎾 Fast Tennis — Engenheiro de Agentes de IA  
-📅 out 2025 – atual  
+📅 out 2025 – abr 2026   
 
 ### 🔧 Responsabilidades  
 - Criação de agentes inteligentes autônomos para atendimento via WhatsApp.  
