@@ -7,16 +7,13 @@
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
 - 💼 Fullstack Developer at **[Strata Engenharia](https://www.strata.com.br/)**
 - 🎓 Software Engineering student at **[PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)**
+- 🔗 Olhe meu portfólio: **[alencarleandro.github.io](https://alencarleandro.github.io)**
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://alencarleandro.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-0F2340?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leandroalencarclemente">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
