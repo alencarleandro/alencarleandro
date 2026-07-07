@@ -171,7 +171,7 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <img src="./assets/experience/strata.png" width="100%" alt="Strata Engenharia" />
 </td>
 <td width="50%" align="center">
-  <img src="./assets/experience/legnu.png" width="100%" alt="Legnu INFORTEC" />
+  <img src="./assets/experience/fast-tennis.png" width="100%" alt="Fast Tennis" />
 </td>
 </tr>
 <tr>
@@ -195,43 +195,6 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   </p>
 </td>
 <td width="50%" valign="top">
-  <h3>Legnu INFORTEC</h3>
-  <p><strong>Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
-  <ul>
-    <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX desktop applications, and Spring Boot.</li>
-    <li>Database modeling with MySQL/PostgreSQL and complex business rules for finance, inventory, sales, and CRM.</li>
-    <li>Integrations with NF-e/NFC-e and document generation using iText and JasperReports.</li>
-    <li>Creation of REST APIs, legacy refactoring, and application of Git-based best practices.</li>
-  </ul>
-  <p><strong>Stack:</strong><br />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/iText-111827?style=flat-square&logoColor=white" alt="iText" />
-    <img src="https://img.shields.io/badge/JasperReports-8A2BE2?style=flat-square&logoColor=white" alt="JasperReports" />
-  </p>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="./assets/experience/fast-tennis.png" width="100%" alt="Fast Tennis" />
-</td>
-<td width="50%" align="center">
-  <img src="./assets/experience/puc-minas.png" width="100%" alt="PUC Minas" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   <h3>Fast Tennis</h3>
   <p><strong>AI Agents Engineer / RPA Developer</strong><br />Oct 2025 - Apr 2026</p>
   <ul>
@@ -252,6 +215,21 @@ My work connects backend, frontend, data modeling, integrations, and operations.
     <img src="https://img.shields.io/badge/RD%20Station-6436E9?style=flat-square&logoColor=white" alt="RD Station" />
   </p>
 </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="./assets/experience/puc-minas.png" width="100%" alt="PUC Minas" />
+</td>
+<td width="50%" align="center">
+  <img src="./assets/experience/legnu.png" width="100%" alt="Legnu INFORTEC" />
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3>PUC Minas</h3>
   <p><strong>Modular Programming Tutor</strong><br />Jul 2025 - Oct 2025</p>
@@ -264,6 +242,28 @@ My work connects backend, frontend, data modeling, integrations, and operations.
     <img src="https://img.shields.io/badge/Modular%20Development-02569B?style=flat-square&logoColor=white" alt="Modular Development" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Best%20Practices-43B02A?style=flat-square&logo=checkmarx&logoColor=white" alt="Best Practices" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3>Legnu INFORTEC</h3>
+  <p><strong>Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
+  <ul>
+    <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX desktop applications, and Spring Boot.</li>
+    <li>Database modeling with MySQL/PostgreSQL and complex business rules for finance, inventory, sales, and CRM.</li>
+    <li>Integrations with NF-e/NFC-e and document generation using iText and JasperReports.</li>
+    <li>Creation of REST APIs, legacy refactoring, and application of Git-based best practices.</li>
+  </ul>
+  <p><strong>Stack:</strong><br />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/iText-111827?style=flat-square&logoColor=white" alt="iText" />
+    <img src="https://img.shields.io/badge/JasperReports-8A2BE2?style=flat-square&logoColor=white" alt="JasperReports" />
   </p>
 </td>
 </tr>
