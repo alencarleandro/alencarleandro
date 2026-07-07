@@ -179,10 +179,11 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <h3>Strata Engenharia</h3>
   <p><strong>Fullstack Developer</strong><br />May 2026 - Present</p>
   <ul>
-    <li>Development of a management web platform with <strong>React</strong> and <strong>Node.js</strong>.</li>
-    <li>Implementation of features supported by <strong>Artificial Intelligence</strong>.</li>
+    <li>Development of a management web platform using <strong>React</strong> on the frontend and <strong>Node.js</strong> on the backend.</li>
+    <li>Development and implementation of features supported by <strong>Artificial Intelligence</strong> techniques.</li>
     <li>Work with <strong>computer vision</strong> for object detection, segmentation, and tracking.</li>
-    <li>Testing, adjustments, maintenance, technical support, and user training.</li>
+    <li>Testing, adjustments, maintenance, and technical support for developed applications.</li>
+    <li>Support in user training for implemented solutions.</li>
   </ul>
   <p><strong>Stack:</strong> React, Node.js, JavaScript/TypeScript, AI, Computer Vision, APIs.</p>
 </td>
@@ -190,12 +191,12 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <h3>Legnu INFORTEC</h3>
   <p><strong>Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
   <ul>
-    <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX, Spring Boot, and web applications.</li>
-    <li>Data modeling and business rules for finance, inventory, sales, and CRM modules.</li>
+    <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX desktop applications, and Spring Boot.</li>
+    <li>Database modeling with MySQL/PostgreSQL and complex business rules for finance, inventory, sales, and CRM.</li>
     <li>Integrations with NF-e/NFC-e and document generation using iText and JasperReports.</li>
-    <li>Creation of REST APIs, legacy refactoring, and internal automations.</li>
+    <li>Creation of REST APIs, legacy refactoring, and application of Git-based best practices.</li>
   </ul>
-  <p><strong>Stack:</strong> Java, Spring Boot, JavaFX, Hibernate, Maven, MySQL, PostgreSQL, Selenium.</p>
+  <p><strong>Stack:</strong> Java, Spring Boot, JavaFX, Hibernate, Maven, MySQL, PostgreSQL, Git, iText, JasperReports.</p>
 </td>
 </tr>
 </table>
@@ -216,10 +217,10 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <h3>Fast Tennis</h3>
   <p><strong>AI Agents Engineer / RPA Developer</strong><br />Oct 2025 - Apr 2026</p>
   <ul>
-    <li>AI agent in n8n for automated scheduling via WhatsApp.</li>
-    <li>Integration between WhatsApp, n8n, and Zoho for support, tickets, and bug reports.</li>
-    <li>RD Station sales funnel exporter for commercial tracking.</li>
-    <li>RPA automations and gradual refactoring of agents into Python.</li>
+    <li>Development of an AI agent in n8n for automated first-experience scheduling via WhatsApp.</li>
+    <li>Integration between WhatsApp, n8n, and Zoho, converting conversations into tickets and improving support and bug management.</li>
+    <li>Creation of an RD Station sales funnel exporter for analysis and commercial tracking.</li>
+    <li>Process automation with RPA and initial refactoring of agents into Python.</li>
   </ul>
   <p><strong>Stack:</strong> n8n, Python, PHP, RAG, RPA, APIs, WhatsApp, Zoho, RD Station.</p>
 </td>
@@ -227,11 +228,9 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <h3>PUC Minas</h3>
   <p><strong>Modular Programming Tutor</strong><br />Jul 2025 - Oct 2025</p>
   <ul>
-    <li>Tutoring students in the Modular Programming course.</li>
-    <li>Guidance on logic, OOP, best practices, and modularization.</li>
-    <li>Support with exercises, technical questions, and academic projects.</li>
+    <li>Technical guidance for students in programming logic, OOP, and best practices for modular development.</li>
   </ul>
-  <p><strong>Base:</strong> Java, OOP, data structures, modularization, and best practices.</p>
+  <p><strong>Base:</strong> Programming Logic, OOP, Modular Development, Java, and best practices.</p>
 </td>
 </tr>
 </table>
