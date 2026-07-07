@@ -2,7 +2,7 @@
 
 <img src="./assets/leandro-figure.png" align="right" width="285" alt="Leandro Alencar avatar" />
 
-### Fullstack Developer | Backend, AI & Automation
+### Software Engineering | System Architect | Fullstack Developer
 
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
 - 💼 Fullstack Developer at **Strata Engenharia**
