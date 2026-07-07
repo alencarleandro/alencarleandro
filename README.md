@@ -1,33 +1,43 @@
-# Leandro Alencar
+# Hey, I'm Leandro Alencar! 👋
 
-<div align="center">
+<img src="./assets/leandro-figure.png" align="right" width="285" alt="Leandro Alencar avatar" />
 
-### Desenvolvedor Full Stack Júnior na Strata Engenharia
+### Desenvolvedor Full Stack Júnior | Backend, IA & Automações
 
-Engenharia de Software na PUC Minas | Backend, IA, automações e produtos web
-
-<a href="https://alencarleandro.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0F2340?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/alencarleandro">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/leandroalencarclemente">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:leandro130333.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-
-</div>
+- 📍 Belo Horizonte, Minas Gerais, Brasil
+- 💼 Desenvolvedor Full Stack Júnior na **Strata Engenharia**
+- 🎓 Engenharia de Software na **PUC Minas**
+- 🛠️ Java, Spring Boot, Node.js, React, bancos relacionais, RPA e agentes de IA
 
 ---
 
-## Sobre mim
+### 🤝 Conecte-se comigo
 
-Sou **desenvolvedor full stack júnior**, atualmente na **Strata Engenharia**, com experiência em sistemas web, APIs, automações, integrações entre plataformas e soluções com apoio de **Inteligência Artificial**.
+<p align="center">
+  <a href="https://alencarleandro.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-0F2340?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leandroalencarclemente">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alencarleandro">
+    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:leandro130333.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
-Gosto de atuar onde produto e engenharia se encontram: entender o problema, desenhar a arquitetura, integrar backend/frontend/mobile, automatizar fluxos e deixar a solução pronta para uso real. Minha base mais forte está em **Java/Spring Boot, Node.js, React, bancos relacionais, mensageria, RPA, visão computacional e agentes de IA**.
+---
+
+### 📖 Sobre mim
+
+Sou **desenvolvedor full stack júnior** e estudante de **Engenharia de Software**, com experiência em sistemas web, APIs REST, automações, integrações entre plataformas e soluções com apoio de **Inteligência Artificial**.
+
+Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de manter, conectando backend, frontend, produto e operação. Tenho atuado com **Java, Spring Boot, Node.js, React, bancos relacionais, RPA, visão computacional e agentes de IA**.
 
 ---
 
