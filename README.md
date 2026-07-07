@@ -294,25 +294,11 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alencarleandro&theme=github_dark" alt="GitHub profile details" />
+<img width="98%" src="https://metrics.lecoq.io/alencarleandro?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&languages.colors=github&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo" alt="GitHub metrics" />
 
 <br />
 <br />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alencarleandro&theme=github_dark" alt="GitHub stats summary" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alencarleandro&theme=github_dark" alt="Top languages by repository" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alencarleandro&theme=github_dark" alt="Top languages by commit" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alencarleandro&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub readme stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencarleandro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alencarleandro&theme=github_dark&utcOffset=-3" alt="Most productive time" />
-<img width="49%" src="https://streak-stats.demolab.com?user=alencarleandro&theme=dark&hide_border=true" alt="GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=alencarleandro&theme=dark&hide_border=true" alt="GitHub streak" />
 
 </div>
