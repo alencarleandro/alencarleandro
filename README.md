@@ -5,9 +5,8 @@
 ### Software Engineering | System Architect | Fullstack Developer
 
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
-- 💼 Fullstack Developer at **Strata Engenharia**
-- 🎓 Software Engineering student at **PUC Minas**
-- 🛠️ Java, Spring Boot, Node.js, React, relational databases, RPA and AI agents
+- 💼 Fullstack Developer at **[Strata Engenharia](https://www.strata.com.br/)**
+- 🎓 Software Engineering student at **[PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx)**
 
 ---
 
