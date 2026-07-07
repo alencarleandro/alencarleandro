@@ -22,12 +22,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alencarleandro">
-    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:leandro130333.dev@gmail.com">
     <img src="https://img.shields.io/badge/-E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5531983479067">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
