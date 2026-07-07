@@ -34,9 +34,9 @@
 
 ### 📖 About Me
 
-I am a **Fullstack Developer** and **Software Engineering** student with experience in web systems, REST APIs, automations, platform integrations, and solutions powered by **Artificial Intelligence**.
+I am a **Fullstack Developer** and **Software Engineering** student focused on building business-oriented software, from modular ERP systems and management platforms to REST APIs, desktop applications, automations, and AI-powered workflows.
 
-I aim to build scalable, testable, reliable, and maintainable applications, connecting backend, frontend, product, and operations. I work with **Java, Spring Boot, Node.js, React, relational databases, RPA, computer vision, and AI agents**.
+My work connects backend, frontend, data modeling, integrations, and operations. I have worked with ERP modules for finance, inventory, sales, CRM, NF-e/NFC-e integrations, automated WhatsApp flows, RPA processes, n8n agents, computer vision, and applied AI solutions. My main stack includes **Java, Spring Boot, JavaFX, Node.js, React, PostgreSQL, MySQL, Selenium, RPA, computer vision, and AI agents**.
 
 ---
 
