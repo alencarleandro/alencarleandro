@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:leandro130333.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leandro130333.dev@gmail.com">
     <img src="https://img.shields.io/badge/-E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
