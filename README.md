@@ -177,7 +177,7 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 <tr>
 <td width="50%" valign="top">
   <h3>Strata Engenharia</h3>
-  <p><strong>Fullstack Developer</strong><br />May 2026 - Present</p>
+  <p><strong>Junior Fullstack Developer</strong><br />May 2026 - Present</p>
   <ul>
     <li>Development of a management web platform using <strong>React</strong> on the frontend and <strong>Node.js</strong> on the backend.</li>
     <li>Development and implementation of features supported by <strong>Artificial Intelligence</strong> techniques.</li>
@@ -196,7 +196,7 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 </td>
 <td width="50%" valign="top">
   <h3>Fast Tennis</h3>
-  <p><strong>AI Agents Engineer / RPA Developer</strong><br />Oct 2025 - Apr 2026</p>
+  <p><strong>AI Agents Engineer Intern / RPA Developer Intern</strong><br />Oct 2025 - Apr 2026</p>
   <ul>
     <li>Development of an AI agent in n8n for automated first-experience scheduling via WhatsApp.</li>
     <li>Integration between WhatsApp, n8n, and Zoho, converting conversations into tickets and improving support and bug management.</li>
@@ -246,7 +246,7 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 </td>
 <td width="50%" valign="top">
   <h3>Legnu INFORTEC</h3>
-  <p><strong>Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
+  <p><strong>Junior Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
   <ul>
     <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX desktop applications, and Spring Boot.</li>
     <li>Database modeling with MySQL/PostgreSQL and complex business rules for finance, inventory, sales, and CRM.</li>
