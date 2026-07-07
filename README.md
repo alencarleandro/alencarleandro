@@ -185,7 +185,14 @@ My work connects backend, frontend, data modeling, integrations, and operations.
     <li>Testing, adjustments, maintenance, and technical support for developed applications.</li>
     <li>Support in user training for implemented solutions.</li>
   </ul>
-  <p><strong>Stack:</strong> React, Node.js, JavaScript/TypeScript, AI, Computer Vision, APIs.</p>
+  <p><strong>Stack:</strong><br />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/AI-0F2340?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+  </p>
 </td>
 <td width="50%" valign="top">
   <h3>Legnu INFORTEC</h3>
@@ -196,7 +203,18 @@ My work connects backend, frontend, data modeling, integrations, and operations.
     <li>Integrations with NF-e/NFC-e and document generation using iText and JasperReports.</li>
     <li>Creation of REST APIs, legacy refactoring, and application of Git-based best practices.</li>
   </ul>
-  <p><strong>Stack:</strong> Java, Spring Boot, JavaFX, Hibernate, Maven, MySQL, PostgreSQL, Git, iText, JasperReports.</p>
+  <p><strong>Stack:</strong><br />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/iText-111827?style=flat-square&logoColor=white" alt="iText" />
+    <img src="https://img.shields.io/badge/JasperReports-8A2BE2?style=flat-square&logoColor=white" alt="JasperReports" />
+  </p>
 </td>
 </tr>
 </table>
@@ -222,7 +240,17 @@ My work connects backend, frontend, data modeling, integrations, and operations.
     <li>Creation of an RD Station sales funnel exporter for analysis and commercial tracking.</li>
     <li>Process automation with RPA and initial refactoring of agents into Python.</li>
   </ul>
-  <p><strong>Stack:</strong> n8n, Python, PHP, RAG, RPA, APIs, WhatsApp, Zoho, RD Station.</p>
+  <p><strong>Stack:</strong><br />
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/RAG-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" alt="RAG" />
+    <img src="https://img.shields.io/badge/RPA-20232A?style=flat-square&logo=robotframework&logoColor=white" alt="RPA" />
+    <img src="https://img.shields.io/badge/APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/Zoho-C8202F?style=flat-square&logo=zoho&logoColor=white" alt="Zoho" />
+    <img src="https://img.shields.io/badge/RD%20Station-6436E9?style=flat-square&logoColor=white" alt="RD Station" />
+  </p>
 </td>
 <td width="50%" valign="top">
   <h3>PUC Minas</h3>
@@ -230,7 +258,13 @@ My work connects backend, frontend, data modeling, integrations, and operations.
   <ul>
     <li>Technical guidance for students in programming logic, OOP, and best practices for modular development.</li>
   </ul>
-  <p><strong>Base:</strong> Programming Logic, OOP, Modular Development, Java, and best practices.</p>
+  <p><strong>Base:</strong><br />
+    <img src="https://img.shields.io/badge/Programming%20Logic-0F2340?style=flat-square&logo=codecademy&logoColor=white" alt="Programming Logic" />
+    <img src="https://img.shields.io/badge/OOP-512BD4?style=flat-square&logoColor=white" alt="OOP" />
+    <img src="https://img.shields.io/badge/Modular%20Development-02569B?style=flat-square&logoColor=white" alt="Modular Development" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Best%20Practices-43B02A?style=flat-square&logo=checkmarx&logoColor=white" alt="Best Practices" />
+  </p>
 </td>
 </tr>
 </table>
