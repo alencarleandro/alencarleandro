@@ -273,10 +273,12 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 
 ## Education
 
-- **Software Engineering - PUC Minas**  
+- **Software Engineering - PUC Minas**<br>
+  **Level:** Bachelor's Degree<br>
   2024 - 2027
 
-- **Electronics Technician - SENAI Horto**  
+- **Electronics Technician - SENAI Horto**<br>
+  **Level:** Technical Degree<br>
   2022 - 2023
 
 ---
