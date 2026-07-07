@@ -168,10 +168,10 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/alencarleandro/alencarleandro.github.io/refs/heads/main/assets/img/strataLogoEsticada.png" width="100%" height="145" alt="Strata Engenharia" />
+  <img src="./assets/experience/strata.png" width="100%" alt="Strata Engenharia" />
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/alencarleandro/alencarleandro.github.io/main/headerLegnu.png" width="100%" height="145" alt="Legnu INFORTEC" />
+  <img src="./assets/experience/legnu.png" width="100%" alt="Legnu INFORTEC" />
 </td>
 </tr>
 <tr>
@@ -205,10 +205,10 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/alencarleandro/alencarleandro.github.io/main/headerFast.png" width="100%" height="145" alt="Fast Tennis" />
+  <img src="./assets/experience/fast-tennis.png" width="100%" alt="Fast Tennis" />
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/alencarleandro/alencarleandro.github.io/main/headerPuc.png" width="100%" height="145" alt="PUC Minas" />
+  <img src="./assets/experience/puc-minas.png" width="100%" alt="PUC Minas" />
 </td>
 </tr>
 <tr>
