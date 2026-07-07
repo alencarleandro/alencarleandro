@@ -2,16 +2,16 @@
 
 <img src="./assets/leandro-figure.png" align="right" width="285" alt="Leandro Alencar avatar" />
 
-### Desenvolvedor Full Stack Júnior | Backend, IA & Automações
+### Fullstack Developer | Backend, AI & Automation
 
-- 📍 Belo Horizonte, Minas Gerais, Brasil
-- 💼 Desenvolvedor Full Stack Júnior na **Strata Engenharia**
-- 🎓 Engenharia de Software na **PUC Minas**
-- 🛠️ Java, Spring Boot, Node.js, React, bancos relacionais, RPA e agentes de IA
+- 📍 Living in Belo Horizonte, Minas Gerais, Brazil
+- 💼 Fullstack Developer at **Strata Engenharia**
+- 🎓 Software Engineering student at **PUC Minas**
+- 🛠️ Java, Spring Boot, Node.js, React, relational databases, RPA and AI agents
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://alencarleandro.github.io">
@@ -23,7 +23,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leandro130333.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5531983479067">
@@ -33,11 +33,11 @@
 
 ---
 
-### 📖 Sobre mim
+### 📖 About Me
 
-Sou **desenvolvedor full stack júnior** e estudante de **Engenharia de Software**, com experiência em sistemas web, APIs REST, automações, integrações entre plataformas e soluções com apoio de **Inteligência Artificial**.
+I am a **Fullstack Developer** and **Software Engineering** student with experience in web systems, REST APIs, automations, platform integrations, and solutions powered by **Artificial Intelligence**.
 
-Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de manter, conectando backend, frontend, produto e operação. Tenho atuado com **Java, Spring Boot, Node.js, React, bancos relacionais, RPA, visão computacional e agentes de IA**.
+I aim to build scalable, testable, reliable, and maintainable applications, connecting backend, frontend, product, and operations. I work with **Java, Spring Boot, Node.js, React, relational databases, RPA, computer vision, and AI agents**.
 
 ---
 
@@ -47,7 +47,7 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3 align="center">Linguagens</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -74,9 +74,9 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center">IA & Automação</h3>
+<h3 align="center">AI & Automation</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-0F2340?style=for-the-badge&logo=openai&logoColor=white" alt="Agentes de IA" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F2340?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/ChromaDB-5B3DF5?style=for-the-badge&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -93,7 +93,7 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3 align="center">Dados & Mensageria</h3>
+<h3 align="center">Data & Messaging</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -119,7 +119,7 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
@@ -134,7 +134,7 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 
 ---
 
-## Experiência
+## Professional Experience
 
 <div align="center">
 <table>
@@ -149,23 +149,23 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 <tr>
 <td width="50%" valign="top">
   <h3>Strata Engenharia</h3>
-  <p><strong>Desenvolvedor Full Stack Júnior</strong><br />mai 2026 - atual</p>
+  <p><strong>Fullstack Developer</strong><br />May 2026 - Present</p>
   <ul>
-    <li>Desenvolvimento de website de gestão com <strong>React</strong> e <strong>Node.js</strong>.</li>
-    <li>Implementação de funcionalidades com apoio de <strong>Inteligência Artificial</strong>.</li>
-    <li>Atuação com <strong>visão computacional</strong> para detecção, segmentação e rastreamento de objetos.</li>
-    <li>Testes, ajustes, manutenção, suporte técnico e treinamento de usuários.</li>
+    <li>Development of a management web platform with <strong>React</strong> and <strong>Node.js</strong>.</li>
+    <li>Implementation of features supported by <strong>Artificial Intelligence</strong>.</li>
+    <li>Work with <strong>computer vision</strong> for object detection, segmentation, and tracking.</li>
+    <li>Testing, adjustments, maintenance, technical support, and user training.</li>
   </ul>
-  <p><strong>Stack:</strong> React, Node.js, JavaScript/TypeScript, IA, Visão Computacional, APIs.</p>
+  <p><strong>Stack:</strong> React, Node.js, JavaScript/TypeScript, AI, Computer Vision, APIs.</p>
 </td>
 <td width="50%" valign="top">
   <h3>Legnu INFORTEC</h3>
-  <p><strong>Desenvolvedor Full Stack / Java</strong><br />jan 2020 - out 2025</p>
+  <p><strong>Fullstack Developer / Java</strong><br />Jan 2020 - Oct 2025</p>
   <ul>
-    <li>Desenvolvimento de ERP com <strong>Java 21</strong>, JavaFX, Spring Boot e aplicações web.</li>
-    <li>Modelagem de dados e regras de negócio para financeiro, estoque, vendas e CRM.</li>
-    <li>Integrações com NF-e/NFC-e e geração de documentos com iText e JasperReports.</li>
-    <li>Criação de APIs REST, refatoração de legado e automações internas.</li>
+    <li>Development of ERP systems with <strong>Java 21</strong>, JavaFX, Spring Boot, and web applications.</li>
+    <li>Data modeling and business rules for finance, inventory, sales, and CRM modules.</li>
+    <li>Integrations with NF-e/NFC-e and document generation using iText and JasperReports.</li>
+    <li>Creation of REST APIs, legacy refactoring, and internal automations.</li>
   </ul>
   <p><strong>Stack:</strong> Java, Spring Boot, JavaFX, Hibernate, Maven, MySQL, PostgreSQL, Selenium.</p>
 </td>
@@ -186,24 +186,24 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 <tr>
 <td width="50%" valign="top">
   <h3>Fast Tennis</h3>
-  <p><strong>Engenheiro de Agentes de IA / Dev RPA</strong><br />out 2025 - abr 2026</p>
+  <p><strong>AI Agents Engineer / RPA Developer</strong><br />Oct 2025 - Apr 2026</p>
   <ul>
-    <li>Agente de IA no n8n para agendamento automatizado via WhatsApp.</li>
-    <li>Integração entre WhatsApp, n8n e Zoho para suporte, tickets e bugs.</li>
-    <li>Exportador de funis de vendas do RD Station para acompanhamento comercial.</li>
-    <li>Automações com RPA e refatoração gradual de agentes para Python.</li>
+    <li>AI agent in n8n for automated scheduling via WhatsApp.</li>
+    <li>Integration between WhatsApp, n8n, and Zoho for support, tickets, and bug reports.</li>
+    <li>RD Station sales funnel exporter for commercial tracking.</li>
+    <li>RPA automations and gradual refactoring of agents into Python.</li>
   </ul>
   <p><strong>Stack:</strong> n8n, Python, PHP, RAG, RPA, APIs, WhatsApp, Zoho, RD Station.</p>
 </td>
 <td width="50%" valign="top">
   <h3>PUC Minas</h3>
-  <p><strong>Monitor de Programação Modular</strong><br />jul 2025 - out 2025</p>
+  <p><strong>Modular Programming Tutor</strong><br />Jul 2025 - Oct 2025</p>
   <ul>
-    <li>Monitoria para alunos da disciplina de Programação Modular.</li>
-    <li>Orientação em lógica, POO, boas práticas e modularização.</li>
-    <li>Suporte em exercícios, dúvidas técnicas e projetos acadêmicos.</li>
+    <li>Tutoring students in the Modular Programming course.</li>
+    <li>Guidance on logic, OOP, best practices, and modularization.</li>
+    <li>Support with exercises, technical questions, and academic projects.</li>
   </ul>
-  <p><strong>Base:</strong> Java, POO, estruturas de dados, modularização e boas práticas.</p>
+  <p><strong>Base:</strong> Java, OOP, data structures, modularization, and best practices.</p>
 </td>
 </tr>
 </table>
@@ -211,20 +211,20 @@ Busco desenvolver aplicações escaláveis, testáveis, confiáveis e fáceis de
 
 ---
 
-## Formação
+## Education
 
-- **Engenharia de Software - PUC Minas**  
+- **Software Engineering - PUC Minas**  
   2024 - 2027
 
-- **Técnico em Eletrônica - SENAI Horto**  
+- **Electronics Technician - SENAI Horto**  
   2022 - 2023
 
 ---
 
-# 📬 Contato
+# 📬 Contact
 
 📱 **WhatsApp:** +55 (31) 98347-9067  
-📧 **E-mail:** leandro130333.dev@gmail.com  
+📧 **Email:** leandro130333.dev@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/leandroalencarclemente
 
 ---
