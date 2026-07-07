@@ -282,14 +282,6 @@ My work connects backend, frontend, data modeling, integrations, and operations.
 
 ---
 
-# 📬 Contact
-
-📱 **WhatsApp:** +55 (31) 98347-9067  
-📧 **Email:** leandro130333.dev@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/leandroalencarclemente
-
----
-
 ## GitHub Metrics
 
 <div align="center">
